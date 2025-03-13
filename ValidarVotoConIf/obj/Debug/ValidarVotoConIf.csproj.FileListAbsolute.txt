@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\22-09\ValidarVotoConIf\ValidarVotoConIf\bin\Debug\ValidarVotoConIf.exe.config
+C:\Users\Usuario\Desktop\22-09\ValidarVotoConIf\ValidarVotoConIf\bin\Debug\ValidarVotoConIf.exe
+C:\Users\Usuario\Desktop\22-09\ValidarVotoConIf\ValidarVotoConIf\bin\Debug\ValidarVotoConIf.pdb
+C:\Users\Usuario\Desktop\22-09\ValidarVotoConIf\ValidarVotoConIf\obj\Debug\ValidarVotoConIf.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\22-09\ValidarVotoConIf\ValidarVotoConIf\obj\Debug\ValidarVotoConIf.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\22-09\ValidarVotoConIf\ValidarVotoConIf\obj\Debug\ValidarVotoConIf.exe
+C:\Users\Usuario\Desktop\22-09\ValidarVotoConIf\ValidarVotoConIf\obj\Debug\ValidarVotoConIf.pdb
