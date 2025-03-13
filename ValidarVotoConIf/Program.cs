@@ -11,7 +11,7 @@ namespace ValidarVotoConIf
         static void Main(string[] args)
         {
             //Verificar si una persona puede votar usando if-else
-            //Andy Garzón
+            //Tabata Vernaza
             int edad;
             do
             {
